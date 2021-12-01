@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3842AF67-77C2-48F9-8916-3A64A3F5CA54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fourSquare/BreakfastViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "BreakfastViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520 - 129af8f46a8f5155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquare.BreakfastViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; fourSquare.BreakfastViewController"
+                  moduleName = "fourSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayubali/Documents/fourSquare/fourSquare/BreakfastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520 - 1fbdab91937ecead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquare.BreakfastViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; fourSquare.BreakfastViewController"
+                  moduleName = "fourSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayubali/Documents/fourSquare/fourSquare/BreakfastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520 - fd6049cdc6aca27b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquare.BreakfastViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;fourSquare.BreakfastViewController&gt;"
+                  moduleName = "fourSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayubali/Documents/fourSquare/fourSquare/BreakfastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520 - 8b2c86aef2b4d37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquare.BreakfastViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;fourSquare.BreakfastViewController&gt;"
+                  moduleName = "fourSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayubali/Documents/fourSquare/fourSquare/BreakfastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "47D29F20-539F-4CB8-AA61-E2F47C985520 - 7d86ac8f6b4d18b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fourSquare.BreakfastViewController.__deallocating_deinit"
+                  moduleName = "fourSquare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayubali/Documents/fourSquare/fourSquare/BreakfastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
