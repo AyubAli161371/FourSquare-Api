@@ -13,7 +13,7 @@ struct Initial:Codable
 
 {
     let results: [results]
-    let context: context
+    //let context: context
 }
 
 
@@ -27,7 +27,7 @@ struct results:Codable
     let name:String
     let timezone:String
     let geocodes: geocodes
-    let location: location
+   // let location: location
 }
 
 
@@ -59,15 +59,15 @@ struct geocodes:Codable
 
 
 
-struct location: Codable
-{
-    let address:String
-    let country:String
-    let dma:String
-    let locality:String
-    let postcode:String
-    let region:String
-}
+//struct location: Codable
+//{
+//    let address:String
+//    let country:String
+//    let dma:String
+//    let locality:String
+//    let postcode:String
+//    let region:String
+//}
 
 
 
@@ -91,33 +91,33 @@ struct chains: Codable
 
 
 
-struct context : Codable
-{
-    let geo_bounds: geo_bounds
-}
+//struct context : Codable
+//{
+//    let geo_bounds: geo_bounds
+//}
 
 
 
-struct geo_bounds:Codable
-{
-    let circle: circle
-}
+//struct geo_bounds:Codable
+//{
+//    let circle: circle
+//}
 
 
+//
+//struct circle:Codable
+//{
+//    let center: center
+//    let radius:Int
+//}
 
-struct circle:Codable
-{
-    let center: center
-    let radius:Int
-}
 
-
-
-struct center:Codable
-{
-    let latitude:Float
-    let longitude:Float
-}
+//
+//struct center:Codable
+//{
+//    let latitude:Float
+//    let longitude:Float
+//}
 
 
 struct image:Codable
@@ -129,3 +129,5 @@ struct image:Codable
     let width: Int
     let height: Int
 }
+
+

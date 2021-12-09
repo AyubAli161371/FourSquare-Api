@@ -7,9 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C70853D52758A79E006C8325 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70853D42758A79E006C8325 /* ImageCollectionViewCell.swift */; };
+		C70A8E3A27578DD700A7BD76 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70A8E3927578DD700A7BD76 /* ImageViewController.swift */; };
 		C757DE692755DCEA0046C48E /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = C757DE682755DCEA0046C48E /* Model.swift */; };
 		C758FCC12753E89600B0E40A /* BreakfastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C758FCC02753E89600B0E40A /* BreakfastViewController.swift */; };
 		C75F222D27562BE1001E5711 /* MyTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75F222C27562BE1001E5711 /* MyTableCell.swift */; };
+		C76DAAFF2761C422002BB394 /* NearPleacesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76DAAFE2761C422002BB394 /* NearPleacesViewController.swift */; };
+		C7747998275F7B5A00B889C5 /* SliderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7747997275F7B5A00B889C5 /* SliderCollectionViewCell.swift */; };
+		C774799A275F7E3000B889C5 /* TipsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7747999275F7E3000B889C5 /* TipsTableViewCell.swift */; };
+		C774799C275F86C000B889C5 /* TipsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C774799B275F86C000B889C5 /* TipsModel.swift */; };
 		C77521A92752B4AE008642A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77521A82752B4AE008642A6 /* AppDelegate.swift */; };
 		C77521AB2752B4AE008642A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77521AA2752B4AE008642A6 /* SceneDelegate.swift */; };
 		C77521AD2752B4AE008642A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77521AC2752B4AE008642A6 /* ViewController.swift */; };
@@ -18,13 +24,22 @@
 		C77521B52752B4B3008642A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C77521B32752B4B3008642A6 /* LaunchScreen.storyboard */; };
 		C77562C027574C1100BDE689 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C77562BF27574C1100BDE689 /* DetailViewController.swift */; };
 		C783CFCF2754DAEF00358925 /* API Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C783CFCE2754DAEF00358925 /* API Manager.swift */; };
+		C789FC4B275F20B1008422DA /* TipsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C789FC4A275F20B1008422DA /* TipsViewController.swift */; };
+		C789FC4F275F299F008422DA /* ImageCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C789FC4E275F299F008422DA /* ImageCollectionView.swift */; };
+		C789FC51275F2B59008422DA /* NearPlaceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C789FC50275F2B59008422DA /* NearPlaceCell.swift */; };
 		C7D5CECE27574994000254C2 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D5CECD27574994000254C2 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C70853D42758A79E006C8325 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
+		C70A8E3927578DD700A7BD76 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		C757DE682755DCEA0046C48E /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		C758FCC02753E89600B0E40A /* BreakfastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakfastViewController.swift; sourceTree = "<group>"; };
 		C75F222C27562BE1001E5711 /* MyTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableCell.swift; sourceTree = "<group>"; };
+		C76DAAFE2761C422002BB394 /* NearPleacesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NearPleacesViewController.swift; sourceTree = "<group>"; };
+		C7747997275F7B5A00B889C5 /* SliderCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCollectionViewCell.swift; sourceTree = "<group>"; };
+		C7747999275F7E3000B889C5 /* TipsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsTableViewCell.swift; sourceTree = "<group>"; };
+		C774799B275F86C000B889C5 /* TipsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsModel.swift; sourceTree = "<group>"; };
 		C77521A52752B4AE008642A6 /* fourSquare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fourSquare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C77521A82752B4AE008642A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C77521AA2752B4AE008642A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -35,6 +50,9 @@
 		C77521B62752B4B3008642A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C77562BF27574C1100BDE689 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		C783CFCE2754DAEF00358925 /* API Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "API Manager.swift"; sourceTree = "<group>"; };
+		C789FC4A275F20B1008422DA /* TipsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsViewController.swift; sourceTree = "<group>"; };
+		C789FC4E275F299F008422DA /* ImageCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionView.swift; sourceTree = "<group>"; };
+		C789FC50275F2B59008422DA /* NearPlaceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearPlaceCell.swift; sourceTree = "<group>"; };
 		C7D5CECD27574994000254C2 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,6 +67,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C76DAAFA2761BA9E002BB394 /* Breakfast */ = {
+			isa = PBXGroup;
+			children = (
+				C758FCC02753E89600B0E40A /* BreakfastViewController.swift */,
+				C75F222C27562BE1001E5711 /* MyTableCell.swift */,
+			);
+			path = Breakfast;
+			sourceTree = "<group>";
+		};
+		C76DAAFB2761BADC002BB394 /* detailview */ = {
+			isa = PBXGroup;
+			children = (
+				C77562BF27574C1100BDE689 /* DetailViewController.swift */,
+				C7D5CECD27574994000254C2 /* MyCollectionViewCell.swift */,
+				C789FC4E275F299F008422DA /* ImageCollectionView.swift */,
+			);
+			path = detailview;
+			sourceTree = "<group>";
+		};
 		C775219C2752B4AE008642A6 = {
 			isa = PBXGroup;
 			children = (
@@ -68,16 +105,22 @@
 		C77521A72752B4AE008642A6 /* fourSquare */ = {
 			isa = PBXGroup;
 			children = (
+				C76DAAFB2761BADC002BB394 /* detailview */,
+				C76DAAFA2761BA9E002BB394 /* Breakfast */,
 				C77521A82752B4AE008642A6 /* AppDelegate.swift */,
 				C77521AA2752B4AE008642A6 /* SceneDelegate.swift */,
 				C77521AC2752B4AE008642A6 /* ViewController.swift */,
-				C758FCC02753E89600B0E40A /* BreakfastViewController.swift */,
 				C783CFCE2754DAEF00358925 /* API Manager.swift */,
 				C757DE682755DCEA0046C48E /* Model.swift */,
 				C77521AE2752B4AE008642A6 /* Main.storyboard */,
-				C77562BF27574C1100BDE689 /* DetailViewController.swift */,
-				C7D5CECD27574994000254C2 /* MyCollectionViewCell.swift */,
-				C75F222C27562BE1001E5711 /* MyTableCell.swift */,
+				C70853D42758A79E006C8325 /* ImageCollectionViewCell.swift */,
+				C7747997275F7B5A00B889C5 /* SliderCollectionViewCell.swift */,
+				C70A8E3927578DD700A7BD76 /* ImageViewController.swift */,
+				C774799B275F86C000B889C5 /* TipsModel.swift */,
+				C789FC4A275F20B1008422DA /* TipsViewController.swift */,
+				C7747999275F7E3000B889C5 /* TipsTableViewCell.swift */,
+				C789FC50275F2B59008422DA /* NearPlaceCell.swift */,
+				C76DAAFE2761C422002BB394 /* NearPleacesViewController.swift */,
 				C77521B12752B4B3008642A6 /* Assets.xcassets */,
 				C77521B32752B4B3008642A6 /* LaunchScreen.storyboard */,
 				C77521B62752B4B3008642A6 /* Info.plist */,
@@ -156,10 +199,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C774799A275F7E3000B889C5 /* TipsTableViewCell.swift in Sources */,
+				C789FC51275F2B59008422DA /* NearPlaceCell.swift in Sources */,
 				C77562C027574C1100BDE689 /* DetailViewController.swift in Sources */,
+				C70853D52758A79E006C8325 /* ImageCollectionViewCell.swift in Sources */,
+				C76DAAFF2761C422002BB394 /* NearPleacesViewController.swift in Sources */,
+				C7747998275F7B5A00B889C5 /* SliderCollectionViewCell.swift in Sources */,
+				C789FC4F275F299F008422DA /* ImageCollectionView.swift in Sources */,
+				C789FC4B275F20B1008422DA /* TipsViewController.swift in Sources */,
 				C77521AD2752B4AE008642A6 /* ViewController.swift in Sources */,
+				C70A8E3A27578DD700A7BD76 /* ImageViewController.swift in Sources */,
 				C77521A92752B4AE008642A6 /* AppDelegate.swift in Sources */,
 				C7D5CECE27574994000254C2 /* MyCollectionViewCell.swift in Sources */,
+				C774799C275F86C000B889C5 /* TipsModel.swift in Sources */,
 				C758FCC12753E89600B0E40A /* BreakfastViewController.swift in Sources */,
 				C77521AB2752B4AE008642A6 /* SceneDelegate.swift in Sources */,
 				C783CFCF2754DAEF00358925 /* API Manager.swift in Sources */,
